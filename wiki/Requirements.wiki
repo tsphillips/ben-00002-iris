@@ -1,11 +1,6 @@
-#summary One-sentence summary of this page.
+#summary Project Requirements
 
-= Introduction =
-
-Add your content here.
-
-
-= Details =
+= List of Requirements =
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
