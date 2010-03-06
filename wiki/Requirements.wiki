@@ -1,28 +1,28 @@
 #summary Project Requirements
 
- 1. Experimental task: Subject is asked to indicate what the person in each picture is thinking or feeling.
- 2. Control task: Subject is asked to indicate eye color.
- 3. There shall be 36 distinct eye stimuli derived from the original 36 eye stimuli in the Baron-Cohen test (Baron-Cohen et al., 2001).
- 4. A dependent measure shall be accuracy (error rate).
- 5. A dependent measure shall be reaction time.
- 6. One block shall be 36 trials.
- 7. Each unique stimulus shall be presented exactly once per block.
- 8. Three visual environments shall be implemented.
-  8.1. A party environment shall be implemented.
-  8.2. A bus or metro train environment shall be implemented.
-  8.3. A baseball game environment shall be implemented. (Alternate - an office work environment.)
- 9. Each trial shall be accompanied by 4 foils (options).
- 10. Each trial shall have exactly one correct answer per Baron-Cohen et al. (2001).
- 11. Subject shall have no more than 8 seconds to respond to each trial.
- 12. Subject response to a trial shall be a button press.
- 13. Subject shall receive accuracy feedback after each trial.
- 14. The interstimulus interval between each trial shall be 4 seconds.
- 15. During the interstimulus interval the subject's avatar shall move to another character.
- 16. A block shall consist of 36 trials.
- 17. A training session shall consist of 9 blocks.
- 18. A training session shall last no more than 90 minutes.
- 19. A training session shall consist of 6 experimental blocks and 3 control blocks.
- 20. A block shall last no more than 8.5 minutes.
- 21. A training sessions shall consist of 3 blocks in each of 3 environments.
- 22. The order of stimuli in a block shall be randomized.
- 23. The order of blocks across tasks and environments shall be randomized across training days.
+ * 1) Experimental task: Subject is asked to indicate what the person in each picture is thinking or feeling.
+ * 2) Control task: Subject is asked to indicate eye color.
+ * 3) There shall be 36 distinct eye stimuli derived from the original 36 eye stimuli in the Baron-Cohen test (Baron-Cohen et al., 2001).
+ * 4) A dependent measure shall be accuracy (error rate).
+ * 5) A dependent measure shall be reaction time.
+ * 6) One block shall be 36 trials.
+ * 7) Each unique stimulus shall be presented exactly once per block.
+ * 8) Three visual environments shall be implemented.
+  * 8.1) A party environment shall be implemented.
+  * 8.2) A bus or metro train environment shall be implemented.
+  * 8.3) A baseball game environment shall be implemented. (Alternate - an office work environment.)
+ * 9) Each trial shall be accompanied by 4 foils (options).
+ * 10) Each trial shall have exactly one correct answer per Baron-Cohen et al. (2001).
+ * 11) Subject shall have no more than 8 seconds to respond to each trial.
+ * 12) Subject response to a trial shall be a button press.
+ * 13) Subject shall receive accuracy feedback after each trial.
+ * 14) The interstimulus interval between each trial shall be 4 seconds.
+ * 15) During the interstimulus interval the subject's avatar shall move to another character.
+ * 16) A block shall consist of 36 trials.
+ * 17) A training session shall consist of 9 blocks.
+ * 18) A training session shall last no more than 90 minutes.
+ * 19) A training session shall consist of 6 experimental blocks and 3 control blocks.
+ * 20) A block shall last no more than 8.5 minutes.
+ * 21) A training sessions shall consist of 3 blocks in each of 3 environments.
+ * 22) The order of stimuli in a block shall be randomized.
+ * 23) The order of blocks across tasks and environments shall be randomized across training days.
