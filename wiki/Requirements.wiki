@@ -1,4 +1,5 @@
 #summary Project Requirements
+#labels Phase-Requirements
 
 These requirements are wikified now, but we will later migrate to using spreadsheets to track requirements. Also, the below requirements are not written well for this round -- in the future they will be distilled better from the specifications. Through a number of iterations and refinements we will gradually formalize the development cycle.
 
