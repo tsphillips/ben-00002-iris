@@ -2,6 +2,8 @@
 
 These requirements are wikified now, but we will later migrate to using spreadsheets to track requirements. Also, the below requirements are not written well for this round -- in the future they will be distilled better from the specifications. Through a number of iterations and refinements we will gradually formalize the development cycle.
 
+Storage of measurements will be addressed soon.
+
 And yes, I know the numbering is crazy. It will get better.
 
 || 0.0.1 || The program shall have a splash screen. ||
@@ -12,7 +14,6 @@ And yes, I know the numbering is crazy. It will get better.
 || 0.0.2.2 || The main menu screen shall link to the credits screen. ||
 || 0.0.2.3 || The main menu screen shall link to the main play screen. ||
 || 0.0.2.4 || The main menu screen shall have an option to exit the program. ||
-
 || 0.0.3 || The program shall have a credits screen. ||
 || 0.0.4 || The program shall have a settings screen. ||
 || 0.0.5 || The program shall have a main play screen. ||
@@ -43,12 +44,17 @@ And yes, I know the numbering is crazy. It will get better.
 || 0.21 || A training sessions shall consist of 3 blocks in each of 3 environments. ||
 || 0.22 || The order of stimuli in a block shall be randomized. ||
 || 0.23 || The order of blocks across tasks and environments shall be randomized across training days. ||
+
 || 1.1 || Instructions shall be presented to the subject before each block. ||
+
 || 2.1 || The subject shall be presented with 5-10 practice trials at the beginning of training. ||
 || 2.2 || Practice trials shall entail asking the subject about hair color. I.e., practice trials are neither experimental nor control trials. ||
+
 || 3.1 || The program should pause at the conclusion of each block to allow the subject to take a break. ||
 || 3.2 || Breaks shall be terminated following a button press by the experimenter. ||
+
 || 4.1 || Environments shall be structured to minimize potential distractions during blocks. ||
+
 || 5.1 || The eye stimuli shall be consistent across blocks. ||
 || 5.2 || The eye stimuli shall be consistent across subjects. ||
 || 5.3 || 50% of the stimuli shall be male. ||
@@ -59,6 +65,7 @@ And yes, I know the numbering is crazy. It will get better.
 || 5.8 || 25% of the stimuli shall be of race/ethnicity/profession 2. ||
 || 5.9 || 25% of the stimuli shall be of race/ethnicity/profession 3. ||
 || 5.10 || 25% of the stimuli shall be of race/ethnicity/profession 4. ||
+
 || 6.1 || For experimental trials, all foils shall be of the same valence as the target stimulus. ||
 || 6.2 || For the control trials, all foils (except for the correct response) shall be randomized and different. ||
 
