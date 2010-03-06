@@ -1,5 +1,7 @@
 #summary Project Requirements
 
+These requirements are wikified now, but we will later migrate to using spreadsheets to track requirements. Also, these requirements are not written well for this round -- in the future they will be distilled better from the specifications.
+
 || 1 || Experimental task: Subject is asked to indicate what the person in each picture is thinking or feeling. ||
 || 2 || Control task: Subject is asked to indicate eye color. ||
 || 3 || There shall be 36 distinct eye stimuli derived from the original 36 eye stimuli in the Baron-Cohen test (Baron-Cohen et al., 2001). ||
