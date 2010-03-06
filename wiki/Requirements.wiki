@@ -2,6 +2,21 @@
 
 These requirements are wikified now, but we will later migrate to using spreadsheets to track requirements. Also, the below requirements are not written well for this round -- in the future they will be distilled better from the specifications. Through a number of iterations and refinements we will gradually formalize the development cycle.
 
+And yes, I know the numbering is crazy. It will get better.
+
+|| 0.0.1 || The program shall have a splash screen. ||
+|| 0.0.1.1 || The splash screen shall display the title of the program. ||
+|| 0.0.1.2 || The splash screen shall indicate whether the program is still loading. ||
+|| 0.0.2 || The program shall have a main menu screen. ||
+|| 0.0.2.1 || The main menu screen shall link to the settings screen. ||
+|| 0.0.2.2 || The main menu screen shall link to the credits screen. ||
+|| 0.0.2.3 || The main menu screen shall link to the main play screen. ||
+|| 0.0.2.4 || The main menu screen shall have an option to exit the program. ||
+
+|| 0.0.3 || The program shall have a credits screen. ||
+|| 0.0.4 || The program shall have a settings screen. ||
+|| 0.0.5 || The program shall have a main play screen. ||
+
 || 0.1 || Experimental task: Subject is asked to indicate what the person in each picture is thinking or feeling. ||
 || 0.2 || Control task: Subject is asked to indicate eye color. ||
 || 0.3 || There shall be 36 distinct eye stimuli derived from the original 36 eye stimuli in the Baron-Cohen test (Baron-Cohen et al., 2001). ||
