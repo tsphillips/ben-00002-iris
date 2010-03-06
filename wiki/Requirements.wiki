@@ -1,30 +1,53 @@
 #summary Project Requirements
 
-These requirements are wikified now, but we will later migrate to using spreadsheets to track requirements. Also, these requirements are not written well for this round -- in the future they will be distilled better from the specifications.
+These requirements are wikified now, but we will later migrate to using spreadsheets to track requirements. Also, the below requirements are not written well for this round -- in the future they will be distilled better from the specifications. Through a number of iterations and refinements we will gradually formalize the development cycle.
 
-|| 1 || Experimental task: Subject is asked to indicate what the person in each picture is thinking or feeling. ||
-|| 2 || Control task: Subject is asked to indicate eye color. ||
-|| 3 || There shall be 36 distinct eye stimuli derived from the original 36 eye stimuli in the Baron-Cohen test (Baron-Cohen et al., 2001). ||
-|| 4 || A dependent measure shall be accuracy (error rate). ||
-|| 5 || A dependent measure shall be reaction time. ||
-|| 6 || One block shall be 36 trials. ||
-|| 7 || Each unique stimulus shall be presented exactly once per block. ||
-|| 8 || Three visual environments shall be implemented. ||
-|| 8.1 || A party environment shall be implemented. ||
-|| 8.2 || A bus or metro train environment shall be implemented. ||
-|| 8.3 || A baseball game environment shall be implemented. (Alternate - an office work environment.) ||
-|| 9 || Each trial shall be accompanied by 4 foils (options). ||
-|| 10 || Each trial shall have exactly one correct answer per Baron-Cohen et al. (2001). ||
-|| 11 || Subject shall have no more than 8 seconds to respond to each trial. ||
-|| 12 || Subject response to a trial shall be a button press. ||
-|| 13 || Subject shall receive accuracy feedback after each trial. ||
-|| 14 || The interstimulus interval between each trial shall be 4 seconds. ||
-|| 15 || During the interstimulus interval the subject's avatar shall move to another character. ||
-|| 16 || A block shall consist of 36 trials. ||
-|| 17 || A training session shall consist of 9 blocks. ||
-|| 18 || A training session shall last no more than 90 minutes. ||
-|| 19 || A training session shall consist of 6 experimental blocks and 3 control blocks. ||
-|| 20 || A block shall last no more than 8.5 minutes. ||
-|| 21 || A training sessions shall consist of 3 blocks in each of 3 environments. ||
-|| 22 || The order of stimuli in a block shall be randomized. ||
-|| 23 || The order of blocks across tasks and environments shall be randomized across training days. ||
+|| 0.1 || Experimental task: Subject is asked to indicate what the person in each picture is thinking or feeling. ||
+|| 0.2 || Control task: Subject is asked to indicate eye color. ||
+|| 0.3 || There shall be 36 distinct eye stimuli derived from the original 36 eye stimuli in the Baron-Cohen test (Baron-Cohen et al., 2001). ||
+|| 0.4 || A dependent measure shall be accuracy (error rate). ||
+|| 0.5 || A dependent measure shall be reaction time. ||
+|| 0.6 || One block shall be 36 trials. ||
+|| 0.7 || Each unique stimulus shall be presented exactly once per block. ||
+|| 0.8 || Three visual environments shall be implemented. ||
+|| 0.8.1 || A party environment shall be implemented. ||
+|| 0.8.2 || A bus or metro train environment shall be implemented. ||
+|| 0.8.3 || A baseball game environment shall be implemented. (Alternate - an office work environment.) ||
+|| 0.9 || Each trial shall be accompanied by 4 foils (options). ||
+|| 0.10 || Each trial shall have exactly one correct answer per Baron-Cohen et al. (2001). ||
+|| 0.11 || Subject shall have no more than 8 seconds to respond to each trial. ||
+|| 0.12 || Subject response to a trial shall be a button press. ||
+|| 0.13 || Subject shall receive accuracy feedback after each trial. ||
+|| 0.14 || The interstimulus interval between each trial shall be 4 seconds. ||
+|| 0.15 || During the interstimulus interval the subject's avatar shall move to another character. ||
+|| 0.16 || A block shall consist of 36 trials. ||
+|| 0.17 || A training session shall consist of 9 blocks. ||
+|| 0.18 || A training session shall last no more than 90 minutes. ||
+|| 0.19 || A training session shall consist of 6 experimental blocks and 3 control blocks. ||
+|| 0.20 || A block shall last no more than 8.5 minutes. ||
+|| 0.21 || A training sessions shall consist of 3 blocks in each of 3 environments. ||
+|| 0.22 || The order of stimuli in a block shall be randomized. ||
+|| 0.23 || The order of blocks across tasks and environments shall be randomized across training days. ||
+|| 1.1 || Instructions shall be presented to the subject before each block. ||
+|| 2.1 || The subject shall be presented with 5-10 practice trials at the beginning of training. ||
+|| 2.2 || Practice trials shall entail asking the subject about hair color. I.e., practice trials are neither experimental nor control trials. ||
+|| 3.1 || The program should pause at the conclusion of each block to allow the subject to take a break. ||
+|| 3.2 || Breaks shall be terminated following a button press by the experimenter. ||
+|| 4.1 || Environments shall be structured to minimize potential distractions during blocks. ||
+|| 5.1 || The eye stimuli shall be consistent across blocks. ||
+|| 5.2 || The eye stimuli shall be consistent across subjects. ||
+|| 5.3 || 50% of the stimuli shall be male. ||
+|| 5.4 || 50% of the stimuli shall be female. ||
+|| 5.5 || 50% of the stimuli shall be under the age of 30. ||
+|| 5.6 || 50% of the stimuli shall be over the age of 30. ||
+|| 5.7 || 25% of the stimuli shall be of race/ethnicity/profession 1. ||
+|| 5.8 || 25% of the stimuli shall be of race/ethnicity/profession 2. ||
+|| 5.9 || 25% of the stimuli shall be of race/ethnicity/profession 3. ||
+|| 5.10 || 25% of the stimuli shall be of race/ethnicity/profession 4. ||
+|| 6.1 || For experimental trials, all foils shall be of the same valence as the target stimulus. ||
+|| 6.2 || For the control trials, all foils (except for the correct response) shall be randomized and different. ||
+
+
+References
+
+Baron-Cohen, S., Wheelwright, S., & Hill, J. (2001). The “Reading the Mind in the Eyes” Test, revised version: A study with normal adults, and adults with Asperger syndrome or high-functioning autism. Journal of Child Psychology and Psychiatry, 42, 241-251.
