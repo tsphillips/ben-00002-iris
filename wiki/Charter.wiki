@@ -38,7 +38,7 @@ Benxing Entertainment manages the development cycles for a number of open projec
 
 = 8. Licensing =
 
-The copyright for all open projects is held by Benxing Entertainment. For all open projects, the source code is licensed using GPLv3, and other assets are licensed using the Creative Commons license 
+The copyright for all open projects is held by Benxing Entertainment. For all open projects, the source code is licensed using the [http://www.gnu.org/licenses/gpl-3.0.html GNU Public License v3], and other assets are licensed using the [http://creativecommons.org/about/licenses/ Creative Commons 3.0 BY-SA license].
 
 = 9. The Development Process =
 
