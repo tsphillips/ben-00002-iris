@@ -2,26 +2,26 @@
 
 This charter is loosely based on the project charters used by the Apache Foundation.
 
-= Introduction =
+= 0. Introduction =
 
-= Mission =
+= 1. Mission =
 
-= History =
+= 2. History =
 
-= Terms =
+= 3. Terms =
 
-= Project Management Committee =
+= 4. Project Management Committee =
 
-= Contributors =
+= 5. Contributors =
 
-= Committers =
+= 6. Committers =
 
-= Infrastructure =
+= 7. Infrastructure =
 
-= Licensing =
+= 8. Licensing =
 
-= The Development Process =
+= 9. The Development Process =
 
 [https://sites.google.com/a/benxing.com/benxinga/_/rsrc/1267998563434/opensource/Iterative_development_model_V2.jpg]
 
-= Relationship to Other Benxing Projects =
+= 10. Relationship to Other Benxing Projects =
