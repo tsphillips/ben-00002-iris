@@ -4,13 +4,31 @@ This charter is loosely based on the project charters used by the Apache Foundat
 
 = 0. Introduction =
 
+Benxing Entertainment creates a number of open source and free software products used for education and cognitive improvement.
+
 = 1. Mission =
+
+The open source and free software projects sponsored by Benxing Entertainment are intended to contribute to the global knowledge of education, cognitive improvement, and game development.
 
 = 2. History =
 
+Time began, stuff happened, and then time ended. But that all happened yesterday.
+
 = 3. Terms =
 
-= 4. Project Management Committee =
+3.1 Benxing. Benxing Entertainment is a Maryland company that focuses on creating fun tools for education and cognitive improvement.
+
+3.2 Open project. Any one of the open source and free software projects managed by Benxing Entertainment. Both the source code and other assets of open projects are available to the public under open source licensing.
+
+3.3 Open product. An open source and free software package released by Benxing Entertainment to the public.
+
+3.4 Contributor. Anyone who makes a contribution to an open project.
+
+3.5 Committer. Anyone who can modify an open project baseline.
+
+= 4. Project Management =
+
+Benxing Entertainment manages the development cycles for a number of open projects. These projects result in the period release of open products. 
 
 = 5. Contributors =
 
