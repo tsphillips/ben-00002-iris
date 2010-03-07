@@ -22,4 +22,6 @@ This charter is loosely based on the project charters used by the Apache Foundat
 
 = The Development Process =
 
+[https://sites.google.com/a/benxing.com/benxinga/_/rsrc/1267998563434/opensource/Iterative_development_model_V2.jpg]
+
 = Relationship to Other Benxing Projects =
