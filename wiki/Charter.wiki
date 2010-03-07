@@ -40,6 +40,8 @@ Benxing Entertainment manages the development cycles for a number of open projec
 
 = 9. The Development Process =
 
+Open projects are managed using an [http://en.wikipedia.org/wiki/Iterative_and_incremental_development iterative development process].
+
 [https://sites.google.com/a/benxing.com/benxinga/_/rsrc/1267998563434/opensource/Iterative_development_model_V2.jpg]
 
 = 10. Relationship to Other Benxing Projects =
