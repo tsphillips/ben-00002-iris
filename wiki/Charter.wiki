@@ -1,0 +1,25 @@
+#summary The charter describes the basis for open source projects at Benxing.
+
+This charter is loosely based on the project charters used by the Apache Foundation.
+
+= Introduction =
+
+= Mission =
+
+= History =
+
+= Terms =
+
+= Project Management Committee =
+
+= Contributors =
+
+= Committers =
+
+= Infrastructure =
+
+= Licensing =
+
+= The Development Process =
+
+= Relationship to Other Benxing Projects =
