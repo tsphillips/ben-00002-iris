@@ -1,0 +1,16 @@
+#summary This is the approximate project schedule.
+
+= Introduction =
+
+Take some wags at the schedule and list milestones below. If there are risks, bring them up here.
+
+
+= Schedule =
+ * Jan 1, 2010: Milestone 1
+ * Jan 2, 2010: Milestone 2
+ * Jan 3, 2010: Milestone 3
+ * Feb 28, 2010: Everything due.
+
+= Risks =
+ * Earth might be hit by a large asteroid.
+ * The atmosphere might be flooded with methane normally trapped under the seabed.
