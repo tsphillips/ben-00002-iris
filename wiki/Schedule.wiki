@@ -6,11 +6,12 @@ Take some wags at the schedule and list milestones below. If there are risks, br
 
 
 = Schedule =
- * Jan 1, 2010: Milestone 1
- * Jan 2, 2010: Milestone 2
- * Jan 3, 2010: Milestone 3
+ * Final Testing build for Iris and Leaps and Bounds on Friday March 19, 2010: Milestone 1
+ * Final Product for Iris and Leaps and Bounds on Friday March 26, 2010: Milestone 2
+ * Concept Art for Future Environments on March 31, 2010: Milestone 3
  * Feb 28, 2010: Everything due.
 
 = Risks =
  * Earth might be hit by a large asteroid.
  * The atmosphere might be flooded with methane normally trapped under the seabed.
+ * Zombies could take over NiSUS and spread to the Benxing office.
