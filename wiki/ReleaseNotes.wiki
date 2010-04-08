@@ -3,10 +3,17 @@
 = How to use the activity =
 
 Go to the wiki tab and open the Builds  page.<br>
+
 Click on the link for the most recent build. (Install the Unity plug-in if necessary.)<br>
+
 After the game loads, make your choice from the main menu.<br>
+
 "Settings" allows you to configure the number of seconds between trials, the length of time the subject is given to respond before the trial is automatically deemed incorrect, the number of practice trials, the number of trials in each control and test block, and some interface options.<br>
+
 "Start" starts the game. By default you start in the cafe environment but you can click the Scene button to choose a different one.<br>
+
 The first block will always be a practice block of the length specified in the Settings.<br>
+
 Following blocks will go one Control block then two test blocks. This pattern does not change when a new scene/environment is opened.<br>
+
 After a block is complete there's nothing to do until you start the next block, so you can take a break.<br>
