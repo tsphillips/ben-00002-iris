@@ -1,19 +1,43 @@
 #summary Release notes for Iris
 
-= How to use the activity =
+= What's New =
 
-Go to the wiki tab and open the Builds  page.<br>
+Iris version 2010.04.12.12 is built using the Unity game development tool and runs on all browsers with the Unity Web Player plugin. 
 
-Click on the link for the most recent build. (Install the Unity plug-in if necessary.)<br>
+	Changes in 2010.04.12.12
 
-After the game loads, make your choice from the main menu.<br>
+	•	Scene change buttons no longer allow the player to load an area until it has finished downloading, which takes care of several scene loading bugs.
 
-"Settings" allows you to configure the number of seconds between trials, the length of time the subject is given to respond before the trial is automatically deemed incorrect, the number of practice trials, the number of trials in each control and test block, and some interface options.<br>
+	•	The ninja's placement in the stadium has been moved so that his animations are no longer visually distracting during the trials.
 
-"Start" starts the game. By default you start in the cafe environment but you can click the Scene button to choose a different one. Clicking on the item listed in the scene begins the first block of trials.<br>
+= System Requirements =
 
-The first block will always be a practice block of the length specified in the Settings.<br>
+	You MUST first download and install the Unity Web Player, available here: 	http://unity3d.com/webplayer/
 
-The following blocks will go one Control block then two test blocks. This pattern does not change when a new scene/environment is opened.<br>
+	Operating Systems
 
-After a block is complete, the statistical information is posted to the screen. Hit "Okay" to close. There is nothing to do until you start the next block, so you can take a break.<br>
+	•	Windows 2000/XP/Vista/7<br>
+	•	Mac OS X 10.3.9 or newer.
+	
+	Supported Browsers
+
+	•	IE, Firefox, Safari, Google Chrome
+
+= Download =
+
+	Iris can be downloaded at this link:
+	
+	The Unity Web Player can be downloaded here: http://unity3d.com/webplayer/
+
+= Playing =
+
+1. Wait for the game to finish loading.<br>
+2. From the main menu, "Start" will begin the game. "Settings" will take you to a menu where several of the game's features can be adjusted. "Credits" will display the names of the people involved with creating Iris. "Instructions" will teach the player how to control the game.<br>
+3. After clicking "Start", the player will begin by default in the cafe environment, but 	the player may choose to switch to another one by clicking on the "Scene" button in the upper right hand corner. In the cafe environment, click on the cash register beneath the message "Click to begin trials" to start the first block of 36 trials. In the 	pool party environment, click on the grill beneath the same message, and in the 	stadium environment, click on the souvenir cart. <br>
+4. The first block will always be a practice block of the same number specified in "Settings" on the main menu.
+5. The following blocks will be one control block, then two test blocks. This pattern will not change when a new environment is opened.<br>
+6. After a block is completed, the player's statistical information will appear. Click "Okay" to close this information. The player can then take a break before beginning the next block.
+
+= Troubleshooting =
+
+	When submitting a problem, please send it to benxing.entertainment@gmail.com. Include the build number, visible on Iris's main menu and loading screen. 
