@@ -40,4 +40,4 @@ Iris version 2010.04.12.12 is built using the Unity game development tool and ru
 
 = Troubleshooting =
 
-	When submitting a problem, please send it to benxing.entertainment@gmail.com. Include the build number, visible on Iris's main menu and loading screen. 
+	When submitting a problem, please send it to support@benxing.com. Include the build number, visible on Iris's main menu and loading screen. 
