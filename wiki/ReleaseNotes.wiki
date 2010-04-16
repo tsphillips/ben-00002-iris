@@ -15,7 +15,7 @@ Iris version 2010.04.16.14 is built using the Unity game development tool and ru
 	Operating Systems
 
 	•	Windows 2000/XP/Vista/7<br>
-	•	Mac OS X 10.3.9 or newer.
+	•	Mac OS X 10.3.9 or newer
 	
 	Supported Browsers
 
@@ -23,7 +23,7 @@ Iris version 2010.04.16.14 is built using the Unity game development tool and ru
 
 = Download =
 
-	Iris can be downloaded at this link:http://code.google.com/p/ben-00002-iris/wiki/Builds The topmost link on                           that page will be the most recently updated version of the game.
+	Iris can be downloaded at this link: http://code.google.com/p/ben-00002-iris/wiki/Builds The topmost link on                           that page will be the most recently updated version of the game.
 	
 	The Unity Web Player can be downloaded here: http://unity3d.com/webplayer/
 
@@ -34,11 +34,12 @@ Iris version 2010.04.16.14 is built using the Unity game development tool and ru
 3. After clicking "Start", the player will begin by default in the cafe environment, but 	the player may choose to switch to another one by clicking on the "Scene" button in the upper right hand corner. In the cafe environment, click on the cash register beneath the message "Click to begin trials" to start the first block of 36 trials. In the pool party environment, click on the grill beneath the same message, and in the stadium environment, click on the souvenir cart. <br>
 4. The first block will always be a practice block of the same number specified in "Settings" on the main menu.
 5. The following blocks will be one control block, then two test blocks. This pattern will not change when a new environment is opened.<br>
-6. After a block is completed, the player's statistical information will appear. Click "Okay" to close this information. The player can then take a break before beginning the next block.
+6. Players will have eight seconds by default to correctly choose an option. If a player runs out of time, the game will consider it a wrong answer. Try to go as quickly as possible while picking the correct answers.
+7. After a block is completed, the player's statistical information will appear. Click "Okay" to close this information. The player can then take a break before beginning the next block.
 
 = Troubleshooting =
 
-	When submitting a problem, please send it to support@benxing.com. Include the build number, visible on Iris's main menu and loading screen. If possible, attempt to replicate any bugs and describe in detail what you think is causing it.
+	When submitting a problem, please send it to support@benxing.com. Include the build number, visible on Iris's main menu and loading screen. If possible, attempt to recreate any problems and describe in detail what you think is causing them.
 
 = Previous Builds =
 
