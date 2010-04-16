@@ -2,13 +2,11 @@
 
 = What's New =
 
-Iris version 2010.04.12.12 is built using the Unity game development tool and runs on all browsers with the Unity Web Player plugin. 
+Iris version 2010.04.16.14 is built using the Unity game development tool and runs on all browsers with the Unity Web Player plugin. 
 
-	Changes in 2010.04.12.12
+  Changes in 2010.04.16.14
 
-	•	Scene change buttons no longer allow the player to load an area until it has finished downloading, which takes care of several scene loading bugs.
-
-	•	The ninja's placement in the stadium has been moved so that his animations are no longer visually distracting during the trials.
+  New GUI elements have been added.
 
 = System Requirements =
 
@@ -41,3 +39,11 @@ Iris version 2010.04.12.12 is built using the Unity game development tool and ru
 = Troubleshooting =
 
 	When submitting a problem, please send it to support@benxing.com. Include the build number, visible on Iris's main menu and loading screen. If possible, attempt to replicate any bugs and describe in detail what you think is causing it.
+
+= Previous Builds =
+
+	Changes in 2010.04.12.12
+
+	•	Scene change buttons no longer allow the player to load an area until it has finished downloading, which takes care of several scene loading bugs.
+
+	•	The ninja's placement in the stadium has been moved so that his animations are no longer visually distracting during the trials.
