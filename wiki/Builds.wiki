@@ -2,12 +2,19 @@
 
 = Current Build =
 
+http://www.bamboobunch.com/demo/Iris%20-%202010-04-19-17-10.html
+
+More polish.
+
+
+= Older Builds =
+
+
 http://www.bamboobunch.com/demo/Iris%20-%202010-04-16-14-03.html
 
 Visual improvements
 
-
-= Older Builds =
+--
 
 http://www.bamboobunch.com/demo/Iris%20-%202010-04-12-12-12.html
 
