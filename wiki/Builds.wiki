@@ -2,19 +2,30 @@
 
 = Current Build =
 
-http://www.bamboobunch.com/demo/Iris%20-%202010-04-19-17-10.html
+http://www.bamboobunch.com/demo/Iris%20-%202010-05-21-12-11.html
 
-More polish.
+Added settings to toggle between-trial feedback about whether the answer was correct or incorrect.
+
+Fixed fullscreen settings.
+
+Added setting to hide XP and $ graphics.
+
+Added setting to hide timer during trials.
 
 
 = Older Builds =
 
+http://www.bamboobunch.com/demo/Iris%20-%202010-04-19-17-10.html
+
+More polish.
+
+---
 
 http://www.bamboobunch.com/demo/Iris%20-%202010-04-16-14-03.html
 
 Visual improvements
 
---
+---
 
 http://www.bamboobunch.com/demo/Iris%20-%202010-04-12-12-12.html
 
