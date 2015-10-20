@@ -1,0 +1,51 @@
+# Current Build #
+
+http://www.bamboobunch.com/demo/Iris%20-%202010-05-21-12-11.html
+
+Added settings to toggle between-trial feedback about whether the answer was correct or incorrect.
+
+Fixed fullscreen settings.
+
+Added setting to hide XP and $ graphics.
+
+Added setting to hide timer during trials.
+
+
+# Older Builds #
+
+http://www.bamboobunch.com/demo/Iris%20-%202010-04-19-17-10.html
+
+More polish.
+
+---
+
+http://www.bamboobunch.com/demo/Iris%20-%202010-04-16-14-03.html
+
+Visual improvements
+
+---
+
+http://www.bamboobunch.com/demo/Iris%20-%202010-04-12-12-12.html
+
+Scene change buttons now don't let you load an area until it has finished, which seems to take care of various scene loading bugs.
+
+Moved the ninja out of the way in the stadium so his animations don't distract from the trials.
+
+---
+
+http://www.bamboobunch.com/demo/Iris%20-%202010-04-08-13-33.html
+
+Added one more character for diversity.
+
+---
+
+http://www.bamboobunch.com/demo/Iris%20-%202010-04-06-16-50.html
+
+Less cartoony Bouncer character,
+New boy character
+
+---
+
+http://www.bamboobunch.com/demo/Iris%20-%202010-03-25-17-15.html
+
+http://www.bamboobunch.com/demo/Iris%20-%202010-03-22-12-01.html

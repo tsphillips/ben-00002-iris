@@ -1,0 +1,48 @@
+# What's New #
+
+Iris version 2010.04.16.14 is built using the Unity game development tool and runs on all browsers with the Unity Web Player plugin.
+
+> Changes in 2010.04.16.14
+
+> New GUI elements have been added.
+
+# System Requirements #
+
+> You MUST first download and install the Unity Web Player, available here: http://unity3d.com/webplayer/
+
+> Operating Systems
+
+> •	Windows 2000/XP/Vista/7<br>
+<blockquote>•	Mac OS X 10.3.9 or newer</blockquote>
+
+<blockquote>Supported Browsers</blockquote>
+
+<blockquote>•	IE, Firefox, Safari, Google Chrome</blockquote>
+
+<h1>Download</h1>
+
+<blockquote>Iris can be downloaded at this link: <a href='http://code.google.com/p/ben-00002-iris/wiki/Builds'>http://code.google.com/p/ben-00002-iris/wiki/Builds</a> The topmost link on                           that page will be the most recently updated version of the game.</blockquote>
+
+<blockquote>The Unity Web Player can be downloaded here: <a href='http://unity3d.com/webplayer/'>http://unity3d.com/webplayer/</a></blockquote>
+
+<h1>Playing</h1>
+
+1. Wait for the game to finish loading.<br>
+2. From the main menu, "Start" will begin the game. "Settings" will take you to a menu where several of the game's features can be adjusted. "Credits" will display the names of the people involved with creating Iris. "Instructions" will teach the player how to control the game.<br>
+3. After clicking "Start", the player will begin by default in the cafe environment, but 	the player may choose to switch to another one by clicking on the "Scene" button in the upper right hand corner. In the cafe environment, click on the cash register beneath the message "Click to begin trials" to start the first block of 36 trials. In the pool party environment, click on the grill beneath the same message, and in the stadium environment, click on the souvenir cart. <br>
+4. The first block will always be a practice block of the same number specified in "Settings" on the main menu.<br>
+5. The following blocks will be one control block, then two test blocks. This pattern will not change when a new environment is opened.<br>
+6. Players will have eight seconds by default to correctly choose an option. If a player runs out of time, the game will consider it a wrong answer. Try to go as quickly as possible while picking the correct answers.<br>
+7. After a block is completed, the player's statistical information will appear. Click "Okay" to close this information. The player can then take a break before beginning the next block.<br>
+<br>
+<h1>Troubleshooting</h1>
+
+<blockquote>When submitting a problem, please send it to support@benxing.com. Include the build number, visible on Iris's main menu and loading screen. If possible, attempt to recreate any problems and describe in detail what you think is causing them.</blockquote>
+
+<h1>Previous Builds</h1>
+
+<blockquote>Changes in 2010.04.12.12</blockquote>
+
+<blockquote>•	Scene change buttons no longer allow the player to load an area until it has finished downloading, which takes care of several scene loading bugs.</blockquote>
+
+<blockquote>•	The ninja's placement in the stadium has been moved so that his animations are no longer visually distracting during the trials.

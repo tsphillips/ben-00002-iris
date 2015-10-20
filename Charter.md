@@ -1,0 +1,73 @@
+This charter is loosely based on the project charters used by the Apache Foundation.
+
+# 0. Introduction #
+
+Benxing Entertainment creates a number of open source and free software products used for education and cognitive improvement.
+
+# 1. Mission #
+
+The open source and free software projects sponsored by Benxing Entertainment are intended to contribute to the global knowledge of education, cognitive improvement, and game development.
+
+Software tools that help people improve themselves through education or cognitive improvement should be freely available to the public.
+
+# 2. History #
+
+Benxing Entertainment began sponsoring open source and free software projects in January, 2010.
+
+# 3. Terms #
+
+3.1 Benxing. Benxing Entertainment is a Maryland company that focuses on creating fun tools for education and cognitive improvement.
+
+3.2 Open project. Any one of the open source and free software projects managed by Benxing Entertainment. Both the source code and other assets of open projects are available to the public under open source licensing.
+
+3.3 Open product. An open source and free software package released by Benxing Entertainment to the public.
+
+3.4 Contributor. Anyone who makes a contribution to an open project.
+
+3.5 Committer. Anyone who can modify an open project baseline.
+
+# 4. Project Management #
+
+Benxing Entertainment manages the development cycles for a number of open projects. These projects result in the period release of open products. Benxing Entertainment assumes the following responsibilities:
+
+4.1 Accepting and evaluating new open project proposals.
+
+4.2 Facilitating code and asset donations by individuals, companies, or other organizations.
+
+4.3 Resolving license issues.
+
+4.4 Facilitating relationships between the various open projects.
+
+4.5 Resolving conflicts that may arise within the open projects.
+
+# 5. Contributors #
+
+Anyone may contribute any asset to an open project. All contributors **must** satisfy the following requirements:
+  * Every contributor must sign a Benxing Entertainment contributor agreement, submit the agreement to Benxing, and have the agreement approved by Benxing.
+  * Every contributor must own the copyright for any materials (source code or other assets) submitted to an open project.
+
+Contributing materials to an open project does not guarantee the materials will be accepted or included in the associated open product.
+
+# 6. Committers #
+
+Committers have permission to modify open project baselines. Modifications may including adding, removing, or modifying materials that will be incorporated into an open product. Committers are appointed by Benxing Entertainment. Any committer may have his or her status revoked at the sole discretion of Benxing Entertainment.
+
+Committers are ultimately responsible for the quality of the open products.
+
+# 7. Infrastructure #
+
+Google Code project hosting is used to host wikis, issue trackers, downloads, and other software development tools needed to maintain an open project.
+
+# 8. Licensing #
+
+The copyright for all open projects is held by Benxing Entertainment. For all open projects, the source code is licensed using the [GNU Public License v3](http://www.gnu.org/licenses/gpl-3.0.html), and other assets are licensed using the [Creative Commons 3.0 BY-SA license](http://creativecommons.org/about/licenses/).
+
+# 9. The Development Process #
+
+Open projects are managed using an [iterative development process](http://en.wikipedia.org/wiki/Iterative_and_incremental_development).
+
+![https://sites.google.com/a/benxing.com/benxinga/_/rsrc/1267998563434/opensource/Iterative_development_model_V2.jpg](https://sites.google.com/a/benxing.com/benxinga/_/rsrc/1267998563434/opensource/Iterative_development_model_V2.jpg)
+
+# 10. Relationship to Other Benxing Projects #
+
+Open projects, for which Benxing Entertainment holds the copyright, may be incorporated into non-open products developed and distributed by Benxing Entertainment. However, such use in no way interferes with the public's ability to use open products developed by Benxing Entertainment.
